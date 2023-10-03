@@ -26,10 +26,14 @@ This produces an error as you cannot **ls** a file, as seen in line 6.
 ![image](https://github.com/NairbNUCSD/cse15l-lab-reports/assets/146861770/2cdaeccb-6f35-4896-a67a-78d02cfe03fa) \
 ![image](https://github.com/NairbNUCSD/cse15l-lab-reports/assets/146861770/e88d6372-58a6-4516-a2c0-a28a44ccf85c) \
 ![image](https://github.com/NairbNUCSD/cse15l-lab-reports/assets/146861770/a16f9587-1b7d-49a2-97ed-1dd828d3bb3f) \
-In the first image, I used **cat** with *no arguments*. 
-This just does nothing and it seems like an error because I cannot run any morecommands after.
+In the first line, I used **cat** with *no arguments*. 
+This just does nothing and it seems like an error because I can not run any more commands after.
 
-In the second image, I used **cat** with *a directory* named 
+In line 3, I used **cat** with *a directory* named 'lecture1' as the argument.
+This produced an error, as  the **cat** command can not be used for directories, as seen in line 4. 
+
+In line 5, I used **cat** with *a file* named 'Hello.java' as the argument.
+This printed the contents of the file, as seen in lines 6-17.
 
 
 
