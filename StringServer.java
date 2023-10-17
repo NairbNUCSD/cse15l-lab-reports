@@ -8,11 +8,13 @@ class Handler implements URLHandler {
     public String handleRequest(URI url) {
         if (url.getPath().equals("/")) {
             return String.format(toString(list));
-        } else if(url.getPath().contains("/add-message")){
-            String[] parameters = url.getQuery().split("=");
-            if(parameters[0].equals("s")){
-                list.add(parameters[1])
-                return String.format("String has been added.\n" + toString(list));
+        } else {
+            if(url.getPath().contains("/add-message")){
+                String[] parameters = url.getQuery().split("=");
+                if(parameters[0].equals("s")){
+                    list.add(parameters[1]);
+                    return String.format("String has been added.\n" + toString(list));
+                }
             }
             return "404 Not Found!";
         } 
