@@ -22,7 +22,7 @@ The path to the private key for my SSH key for logging into ieng6. \
 ![image](https://github.com/NairbNUCSD/cse15l-lab-reports/assets/146861770/eab45ac4-bce7-4eeb-abcd-d99cc8c51258) \
 The path to the public key for your SSH key for logging into ieng6. \
 ![image](https://github.com/NairbNUCSD/cse15l-lab-reports/assets/146861770/2452f731-cccd-4173-934d-4a82910cd8fe) \
-A terminal interaction where I log into ieng6 with my course-specific account without being asked for a password. \
+A terminal interaction where I log into ieng6 with my course-specific account without being asked for a password. 
 
 ## Part 3
 In week 2 I learned how url's work and they are not as complicated as I thought. I learned how to use the URL as input for my Server programs. I learned the crucial parts of the URL such as the path and the query. I also leanred how to create a Server through java. I also learned how to use ssh to log into my school's ieng6 computer remotely. \
