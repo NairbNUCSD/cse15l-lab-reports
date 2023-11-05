@@ -21,6 +21,8 @@ The relevant variables are the ArrayList and the URI variables. the URI.getPath(
 The path to the private key for my SSH key for logging into ieng6. \
 ![image](https://github.com/NairbNUCSD/cse15l-lab-reports/assets/146861770/eab45ac4-bce7-4eeb-abcd-d99cc8c51258) \
 The path to the public key for your SSH key for logging into ieng6. \
+![image](https://github.com/NairbNUCSD/cse15l-lab-reports/assets/146861770/a2b5ac70-bd57-4a2a-8dab-e9ec143ad103)
+
 ![image](https://github.com/NairbNUCSD/cse15l-lab-reports/assets/146861770/2452f731-cccd-4173-934d-4a82910cd8fe) \
 A terminal interaction where I log into ieng6 with my course-specific account without being asked for a password. 
 
