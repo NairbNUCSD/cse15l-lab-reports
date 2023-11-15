@@ -1,5 +1,5 @@
 ## Lab Report 4 - Vim (Week 7)
-Steps (4-9):
+# Steps (4-9):
 1. Log into ieng6
 2. Clone your fork of the repository from your Github account (using the SSH URL)
 3. Run the tests, demonstrating that they fail
@@ -7,7 +7,7 @@ Steps (4-9):
 5. Run the tests, demonstrating that they now succeed
 6.Commit and push the resulting change to your Github account (you can pick any commit message!)
 
-Keys pressed: 
+# Keys pressed: 
 ```
 1. ssh cs15lfa23im@ieng6.ucsd.edu<enter>
 2. git clone git@github.com:NairbNUCSD/lab7.git<enter> (the git repo was in my clipboard so i just used copy paste to insert it in the command)
@@ -17,7 +17,7 @@ Keys pressed:
 6. git add L<tab><enter>, git commit<enter>, iFixed bug in ListExamples.java<escape>:wq!<enter>, git push<enter>
 ```
 
-Summary of commands and how the keypresses relate to them:
+# Summary of commands and how the keypresses relate to them:
 1. I used the ssh command to log into my ieng6 device. ```cs15lfa23im@ieng6.ucsd.edu``` is my ieng6 account and I just typed it out because I memorized it.![image](https://github.com/NairbNUCSD/cse15l-lab-reports/assets/146861770/b1691375-045e-45dd-a9c1-5241e67fd564)
 
 2. I used the git clone command to clone the repository to the ieng6 server. ```git@github.com:NairbNUCSD/lab7.git``` was the SSH clone link that I copied from github when I forked the repository for lab7.![image](https://github.com/NairbNUCSD/cse15l-lab-reports/assets/146861770/041b7a18-224a-4121-bb5e-cf84e44b469c)
